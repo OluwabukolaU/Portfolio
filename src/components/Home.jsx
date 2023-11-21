@@ -1,5 +1,5 @@
 import React from 'react';
-import ThecodEmpress from '../assets/ThecodEmpress.png';
+import thecodEmpress from '../assets/thecodEmpress.png';
 import {MdOutlineKeyboardArrowRight} from 'react-icons/md';
 import { Link } from "react-scroll";
 const Home = () => {
@@ -11,7 +11,7 @@ const Home = () => {
     <div className=" md:max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
       <div className="flex flex-col justify-center h-full">
         <h2 className="text-4xl sm:text-7xl font-bold text-white">
-          I'm a Full Stack Developer
+          I'm a Software Developer
         </h2>
         <p className="text-gray-500 py-2 max-w-md">
         Hello, and thank you for visiting my portfolio. I'm a dedicated 
@@ -37,7 +37,7 @@ const Home = () => {
 
         <div className="hidden md:flex">
           <img 
-            src={ThecodEmpress}
+            src={thecodEmpress}
             alt="my profile"
             className="rounded-2xl mx-auto w-2/3 md:w-full"
           />
