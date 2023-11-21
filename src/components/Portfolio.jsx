@@ -1,18 +1,18 @@
 import React from "react";
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
 import navbar from "../assets/portfolio/navbar.jpg";
-import reactParallax from "../assets/portfolio/reactParallax.jpg";
+import travelwebsite from "../assets/portfolio/travelwebsite.png";
+import landingpage from "../assets/portfolio/landingpage.png";
 
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: arrayDestruct,
+      src: landingpage,
     },
     {
       id: 2,
-      src: reactParallax,
+      src: travelwebsite,
     },
     {
       id: 3,
