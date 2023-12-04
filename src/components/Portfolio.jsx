@@ -1,5 +1,5 @@
 import React from "react";
-import navbar from "../assets/portfolio/navbar.jpg";
+import marketplace from "../assets/portfolio/marketplace.png";
 import travelwebsite from "../assets/portfolio/travelwebsite.png";
 import landingpage from "../assets/portfolio/landingpage.png";
 
@@ -16,7 +16,7 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      src: navbar,
+      src: marketplace,
     },
    
   ];
