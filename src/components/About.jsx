@@ -30,7 +30,7 @@ const About = () => {
           web development using HTML, CSS, Python, Django, and React, I've had
           the opportunity to build projects. I'm
           excited to continue this journey and contribute my skills to a
-          forward-thinking team that values innovation and growth and provide cutting-edge software solutions.
+          forward-thinking team that values innovation, growth and provide cutting-edge software solutions.
         </p>
       </div>
     </div>
