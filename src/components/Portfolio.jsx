@@ -61,18 +61,18 @@ const Portfolio = () => {
 export default Portfolio;*/
 
 import React from "react";
-import marketplace from "../assets/portfolio/marketplace.png";
+import restfulapi from "../assets/portfolio/restfulapi.png";
 import travelwebsite from "../assets/portfolio/travelwebsite.png";
-import landingpage from "../assets/portfolio/landingpage.png";
+import moviesearch from "../assets/portfolio/moviesearch.png";
 
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: landingpage,
-      demoUrl: "https://landing-page-portfolio.netlify.app/",
-      codeUrl: "https://github.com/yourusername/landingpage"
+      src: moviesearch,
+      demoUrl: "https://moviesphere-hscg.vercel.app/",
+      codeUrl: "https://github.com/OluwabukolaU/Moviesphere"
     },
     {
       id: 2,
@@ -82,7 +82,7 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      src: marketplace,
+      src: restfulapi,
       demoUrl: "https://landing-page-portfolio.netlify.app/",
       codeUrl: "https://github.com/yourusername/landingpage"
     },
