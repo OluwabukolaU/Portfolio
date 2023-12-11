@@ -83,8 +83,8 @@ const Portfolio = () => {
     {
       id: 3,
       src: restfulapi,
-      demoUrl: "https://landing-page-portfolio.netlify.app/",
-      codeUrl: "https://github.com/yourusername/landingpage"
+      demoUrl: "https://sophiau.pythonanywhere.com/user/login",
+      codeUrl: "https://github.com/OluwabukolaU/DRF-API"
     },
    
   ];
