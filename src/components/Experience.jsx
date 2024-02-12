@@ -8,6 +8,7 @@ import python from "../assets/python.png";
 import django from "../assets/django.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
+import MySQL from "../assets/MySQL.png";
 
 const Experience = () => {
   const techs = [
@@ -58,6 +59,12 @@ const Experience = () => {
       id: 8,
       src: github,
       title: "GitHub",
+      style: "shadow-gray-400",
+    },
+    {
+      id: 9,
+      src: MySQL,
+      title: "MySQL",
       style: "shadow-gray-400",
     },
   ];
