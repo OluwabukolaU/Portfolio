@@ -1,5 +1,5 @@
 import React from "react";
-import sophia from "../assets/sophia.png";
+import sophia from "../assets/sophia.JPG";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
 const Home = () => {
@@ -41,7 +41,7 @@ const Home = () => {
           <img
             src={sophia}
             alt="my profile"
-            className="rounded-2xl mx-auto w-2/3 md:w-full"
+            className=" h-64 w-full float-left rounded-2xl mx-auto w-2/3 md:w-full"
           />
         </div>
       </div>
