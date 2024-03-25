@@ -16,9 +16,9 @@ const Home = () => {
 
           <p className="text-gray-100 py-2 max-w-md">
             Hello, and thank you for visiting my portfolio. I'm a dedicated and
-            passionate tech enthusiast who has honed my skills over the past
-            year, gaining experience in HTML, CSS, Javascript, React, Python,
-            Django, and Redux. I'm driven by a love for solving real-world
+            passionate Software developer who has honed my skills over the past
+            year, gaining experience in HTML, CSS, Javascript, React, Python, and 
+            Django. I'm driven by a love for solving real-world
             problems through code.
           </p>
 
